@@ -1,0 +1,36 @@
+{
+  "formatos": [
+    {
+      "id": "aclaracion_notas",
+      "nombre": "Formato de Aclaración y Reporte de Notas",
+      "archivo": "Formato Aclaración y Reporte de Notas 2025.xls",
+      "descripcion": "Formulario para solicitar corrección o aclaración de calificaciones",
+      "keywords": ["aclaracion", "notas", "calificaciones", "corregir", "revision", "reporte"],
+      "instrucciones": "1. Llena tus datos personales completos\n2. Indica la materia y el docente\n3. Describe claramente la aclaración solicitada\n4. Adjunta evidencias si es necesario\n5. Entrega en la Secretaría Académica"
+    },
+    {
+      "id": "homologaciones",
+      "nombre": "Formato de Homologaciones",
+      "archivo": "FORMATO DE HOMOLOGACIONES 2025.doc",
+      "descripcion": "Solicitud para homologar materias de otras instituciones o programas",
+      "keywords": ["homologacion", "convalidar", "transferencia", "materias", "asignaturas"],
+      "instrucciones": "1. Completa información personal y académica\n2. Lista las materias a homologar\n3. Adjunta certificado de notas de la institución origen\n4. Adjunta contenidos programáticos de las materias\n5. Presenta ante la coordinación del programa"
+    },
+    {
+      "id": "reintegro",
+      "nombre": "Formato de Reintegro Monetario",
+      "archivo": "FORMATO DE REINTEGRO 2025 EN BLANCO.doc",
+      "descripcion": "Solicitud de devolución de pagos por retiro o error administrativo",
+      "keywords": ["reintegro", "devolucion", "reembolso", "dinero", "pago", "restitucion"],
+      "instrucciones": "1. Llena datos personales y bancarios\n2. Especifica el concepto del pago a reintegrar\n3. Adjunta comprobante de pago original\n4. Indica el motivo detallado del reintegro\n5. Firma y presenta con documentos de soporte"
+    },
+    {
+      "id": "transferencia_traslado",
+      "nombre": "Formato de Solicitud de Transferencia y Traslado",
+      "archivo": "FORMATO DE SOLICITUD DE TRANSFERENCIA Y TRASLADO 2025.doc",
+      "descripcion": "Solicitud para cambio de programa académico o sede",
+      "keywords": ["transferencia", "traslado", "cambio", "programa", "carrera", "sede"],
+      "instrucciones": "1. Completa información del programa actual y solicitado\n2. Justifica el motivo del traslado\n3. Adjunta certificado de notas actualizado\n4. Verifica disponibilidad de cupos\n5. Presenta ante la Secretaría General"
+    }
+  ]
+}
